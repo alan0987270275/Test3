@@ -1,8 +1,8 @@
 #include<iostream>
-
+using namespace std;
 int main()
 {
-	std::cout << "Test for GIT.";
+	cout << "Test for GIT.";
 	system("pause");
 	return 0;
 }
